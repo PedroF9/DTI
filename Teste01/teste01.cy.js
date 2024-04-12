@@ -31,7 +31,8 @@ describe('Login Validation', () => {
     .then(() => {
       cy.log("Is the correct password for this account");
     });
-
+    
+    //second click
     cy.get('button[id="SubmitLogin"]').click();
 
   });
