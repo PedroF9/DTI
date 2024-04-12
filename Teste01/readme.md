@@ -1,7 +1,7 @@
 # Teste 01
 
 ### DADO QUE: 
-O usuario tentou efeturar um login com email correto/válido e com uma senha correta/válida
+O usuario tentou efeturar um login na página de autenticação (criação de conta/login)
 
 ### QUANDO:
 Na hora do login, o usuário insere o email de forma válida e aceita pelo sistema tal como a senha correspondente aquele email
