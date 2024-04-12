@@ -5,7 +5,8 @@ describe('Login Validation', () => {
 
     // Type the email into the 'email address' on the sign in box
     cy.get('input[id="email"]').type('email@test.com');//testing email
-
+    //cy.get('input[id="email"]').type('1 OR 1=1');
+    
     // Type the password into the 'password' on the sign in box
     cy.get('input[id="passwd"]').type('pswordT123');//testing password
 
