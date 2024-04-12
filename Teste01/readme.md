@@ -1,7 +1,7 @@
 # Teste 01
 
 ### DADO QUE: 
-O usuario tentou efeturar um login com email correto/válido, porém com uma senha errada
+O usuario tentou efeturar um login com email correto/válido e com uma senha correta/válida
 
 ### QUANDO:
 Na hora do login, o usuário insere o email de forma válida e aceita pelo sistema tal como a senha correspondente aquele email
