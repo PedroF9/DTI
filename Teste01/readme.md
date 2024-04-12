@@ -10,4 +10,4 @@ Na hora do login, o usuário insere o email de forma válida e aceita pelo siste
 O sistema fará login e redirecionará o usuário para a proxima página
 
 ## OBSERVAÇÃO:
-Fois observado que ao efetuar a ação de clicar no botão 'sign in' com uma caixa de texto selecionada, o sistema não redireciona automaticamente o usuário a próxima página, requerendo um segundo clique depois.
+Foi observado que ao efetuar a ação de clicar no botão 'sign in' com uma caixa de texto selecionada, o sistema não redireciona automaticamente o usuário a próxima página, requerendo um segundo clique depois.
